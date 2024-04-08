@@ -1,0 +1,17 @@
+{
+    "BAA": {
+        "password": "AAAAA",
+        "profiles": [
+            "default",
+            "AAA"
+        ],
+        "rights": 1
+    },
+    "Sam": {
+        "password": "cond",
+        "profiles": [
+            "zas"
+        ],
+        "rights": 3
+    }
+}
